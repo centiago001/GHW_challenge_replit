@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Combo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+html, body {
+  height: 100%;
+  width: 100%;
+  background: #57cc99;
+}
+
+.head-text {
+  font-family: 'Combo', cursive;
+  display: flex;
+  justify-content: center;
+  color: #6c584c;
+  font-size:70px
+   
+}
+
+.para {
+  margin: 20px;
+  display: flex;
+  color:  #6c584c;
+  justify-content: center;
+  font-size: 25px;
+  font-family: 'Dancing Script',cursive;
+  
+}
+
+.mid{
+  display: flex;
+  justify-content: center;
+}
+.text-center{
+  padding:20px;
+  Text-align: center;
+  font-color:#57cc99;
+}
+.text-center button{ 
+  background-color:#6c584c;
+  border-radius:7px;
+  font-size:20px;
+  color:#57cc99;
+  width:100px;
+  height:50px;
+  border-color: #6c584c;
+  font-family: 'Dancing Script',cursive;
+  
+}
+
